@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SDV503 Practice Lab 👋</h1>
+<h1 align="center">Welcome to SDV503 Lab One 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -50,27 +50,29 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Practice Description
 
-:arrow_right: `Clone the repository on your laptop.`
+:arrow_right: `This lab will focus on Git commands and GitHub markdown.`
 
-:arrow_right: `Add a JavaScript file to the repository. Name the file index.`
+:arrow_right: `Create a new branch and name that branch task-one.`
 
-:arrow_right: `Add markdown file to the repository. Name the file journal.`
+:arrow_right: `On task-one branch convert the software document example provided in the img folder to markdown using the document.md file.`
 
-:arrow_right: `Create a new branch and name it develop.`
+:arrow_right: `There are other images provided in the img folder that you can use for the markdown.`
 
-:arrow_right: `Add an HTML file to the develop branch. Name the file index`
+:arrow_right: `Make sure you add, commit and push to task-one branch.`
 
-:arrow_right: `Add a CSS file to the develop branch. Name the file index`
+:arrow_right: `From the master branch create another new branch and name it dev.`
 
-:arrow_right: `Add, commit and push to the branch working on for every change you do in the repository.`
+:arrow_right: `On the dev branch create a folder name it src.`
 
-:arrow_right: `Do not forget the types of files you adding. Example: A JavaScript file is index.js`
+:arrow_right: `Create a JavaScript file insdie the src folder.`
+
+:arrow_right: `Make sure you add, commit and push to dev branch.`
 
 
 ## :books: Resources 
 
-|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|
-|---|---|---|
+|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|[Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)|
+|---|---|---|---|
 
 ## :loudspeaker: IMPORTANT NOTE
 ```diff
